@@ -1,5 +1,6 @@
 package ru.netology;
 
+import netology.DataGenerator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
